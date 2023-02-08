@@ -97,7 +97,7 @@ Currently I am interested and educate myself about:
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
 <strong>04.2022 &mdash; ...</strong><br/>
-<strong>[Philips Koniklijke](https://www.philips.com/a-w/about.html)</strong>, Eindhoven, the Netherlands<br/>
+<strong>[Philips Koninklijke](https://www.philips.com/a-w/about.html)</strong>, Eindhoven, the Netherlands<br/>
 Position: Data Scientist <br/>
 
 
