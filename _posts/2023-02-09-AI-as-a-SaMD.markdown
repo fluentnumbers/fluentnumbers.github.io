@@ -1,16 +1,16 @@
 ---
-title: Artificial-Intelligence-as-a-Software-as-a-Medical-Device
+title: "Artificial-Intelligence-as-a-Software-as-a-Medical-Device"
 layout: post
 date: 2023-02-09 22:48
-image: "/assets/uploads/blogs/AI-as-a-SaMD.png"
-headerImage: true
+image: /assets/uploads/blogs/AI-as-a-SaMD.png
+headerImage: false
 tag:
 - medical-device
 - AI
 - SaMD
 category: blog
 author: andrejs
-description: null
+description: Sneak peak into the topic of SaMD with AI components.
 ---
 
 ![Source: https://info.docxellent.com/blog/fdas-approach-to-regulating-ai-software-for-medical-device-companies](https://miro.medium.com/v2/resize:fit:720/format:webp/1*ThJuuymqqve35TR6UuK1rg.png)  
