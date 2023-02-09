@@ -2,7 +2,7 @@
 title: Artificial-Intelligence-as-a-Software-as-a-Medical-Device
 layout: post
 date: 2023-02-09 22:48
-image: "/assets/blogs/AI-as-a-SaMD.png"
+image: "/assets/uploads/blogs/AI-as-a-SaMD.png"
 headerImage: true
 tag:
 - medical-device
