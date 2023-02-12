@@ -48,7 +48,6 @@ authors:
     bio: Data Science & Health Research
     external-image: false
     picture: assets/images/profile.png
-    #twitter: johndoe
   johndoe:
     name: John Doe
 
@@ -106,6 +105,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-paginate-v2
+  - jekyll-admin
 
 compress_html:
   ignore:
