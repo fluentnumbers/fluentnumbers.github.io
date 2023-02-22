@@ -12,49 +12,34 @@ layout: page
 </ul>
 
 <h2>Summary</h2>
+
 <p>
-A data science professional with solid background in digital signal processing and software development.<br>
-I worked for (contractual) research and advanced development teams in direct contact with internal and external stakeholders.<br>
-I am well familiar with research and agile way of working, and actively promoting to combine them for the best of the team.<br>
-Strong individual contributor, but also have experience as a project and competence team leader, students' supervisor.
-</p>
-<p> 
-I enjoy diving into specialized topics, assist business in sharpening the use case and support it with numbers. My goal is to use sensors, data and computing resources to create insights and value.<br>
-I have broad knowledge related to health technologies, but also keen to learn about other applications with net positive impact. 
+I am a <strong>data scientist and ML engineer</strong> with 6+ years experience of employing right tools (signal processing, machine learning, AI)
+to answer business questions or facilitate data-driven decisions.
+I can design and implement end-to-end data management frameworks, develop and deploy AI models.<br>
+Competent in <strong>consultancy research and advanced development projects</strong>, in direct contact with stakeholders.<br>
+Strong individual contributor, with experience as a project manager and competence team lead.
+I enjoy diving into specialized topics, work together with business partners on sharpening the-use case and support it with numbers.<br>
 </p>
 
-<h3 style="margin-left: 40px;">Projects I worked on</h3>
-<p style="margin-left: 40px;">
-My main technical expertise belongs to sensor data processing in the domains of in- and out-of-hospital medical devices, consumer wearables and eary-stage research for future technologies:
-<ul class="expertise-list" style="margin-left: 40px;">
-	<li>vital signs,  SpO2 accuracy </li>
-	<li>cuffless blood pressure</li>
-	<li>on-body ECG and bio-impedance patches</li>
-	<li>patients' activity recognition</li>
-	<li>detection of cardiac events</li>
-	<li>tracking of patients' rehabilitation</li>
-	<li>wearable EEG for neuromarketing applications</li>
-	<li>implantables (neural stimulation)</li>
-	<li>stress estimation </li>
-	<li>indoor radar for remote monitoring</li>	
-</ul>
+<p>
+<strong>Projects I worked for</strong> belong to the space of <i>consumer wearables</i>, <i>in- and out-of-hospital medical devices</i>, research prototypes for future technologies.
+Some examples are: <i>vital signs contact- and remote-monitoring</i>, <i>digital twins</i>, <i>activity recognition</i>, <i>stress estimation</i>, <i>rehabilitation tracking</i>, <i>neuromarketing</i>, <i>cardiac events detection</i>, <i>implantables</i>, etc. <br>
 </p>
 
-<p style="margin-left: 40px;">
-Being part of multi-disciplinary teams gave me opportunity to learn and contribute to usability studies, hardware design and testing, academic writing, (medical) data collection setup and automation, multiphysics simulation as well as the topics of privacy, GDPR, software licensing.
+<p>
+Currently I am <strong>looking for opportunities</strong> as a data professional with senior responsibilities
+and a steep learning curve in a tech company striving for efficiency.
+I have <strong>broad knowledge related to health-tech</strong>, but my <strong>core technical skills are tranferable</strong>
+and I am keen to learn about other applications with net positive impact.
+My goal is to work on data strategy and execution leading to a relevant insight, proof of concept or technology.<br>
 </p>
 
-<h3 style="margin-left: 40px;">Professional interests</h3>
-<p style="margin-left: 40px;">
-Currently I am interested and educate myself about:
-<ul class="interests-list" style="margin-left: 40px;">
-	<li>Software-as-Medical-Device (SaMD) qualification and related problem of biased ML;</li>
-	<li>Bayesian modeling</li>	
-	<li>embedded ML for on-device inference</li>		
-	<li>data engineering and cloud computing</li>
-	<li>computer vision</li>	
-</ul>
+<p>
+My <strong>professional interests</strong> include: data engineering and cloud computing, MLOps,
+embedded ML for on-device inference, Software-as-Medical-Device (SaMD) and related problem of biased ML.
 </p>
+
 
 
 
@@ -66,30 +51,31 @@ Currently I am interested and educate myself about:
 <h2>Skills</h2>
 
 
-<h3>Software</h3>
+<h3>Tools</h3>
 <ul class="skill-list">
-	<li>Languages: Python, MATLAB, SQL </li>
-	<li>MS Azure: data management, cloud ML</li>	
-	<li>Git: Actions, Pipelines</li>		
-	<li>Visualization & Dashboards: Plotly, Power BI</li>
-	<li>LaTeX</li>	
+	<li>Python, MATLAB, SQL </li>
+	<li>PyTorch, xGB, Keras</li>
+	<li>Azure: data management, cloud ML</li>	
+	<li>Git Actions, CI\CD, Docker</li>		
+	<li>Plotly, Power BI, PyQt</li>
+	<li>LaTeX, Jira</li>	
 </ul>
 
-<h3>Technical</h3>
+<h3>Expertise</h3>
 <ul class="skill-list">
 	<li>Signal processing</li>
-	<li>Feature engineering</li>
-	<li>Statistics, Bayesian models</li>
-	<li>Algorithm development</li>
+	<li>Data engineering</li>
+	<li>Machine Learning</li>
+	<li>Deep Learning</li>
+	<li>Visualization\Dashboards</li>
 </ul>
 
 <h3>Domain knowledge</h3>
 <ul class="skill-list">
 	<li>Wearables, Vital signs monitoring</li>
-	<li>Biomedical modeling</li>
-	<li>Biomedical time-series</li>	
+	<li>Biomedical time-series analysis</li>
+	<li>Digital Twins</li>	
 </ul>
-
 
 <hr> 
 
@@ -97,7 +83,7 @@ Currently I am interested and educate myself about:
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
 <strong>04.2022 &mdash; ...</strong><br/>
-<strong>[Philips Koninklijke](https://www.philips.com/a-w/about.html)</strong>, Eindhoven, the Netherlands<br/>
+<strong>[Philips](https://www.philips.com/a-w/about.html)</strong>, Eindhoven, the Netherlands<br/>
 Position: Data Scientist <br/>
 
 
@@ -119,11 +105,3 @@ Specialist in Electrical Engineering<br/>
 
 <hr> 
 
-
-
-
-<h2>Projects</h2>
-See the [Projects Page]({{site.url}}/projects/).
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-</ul>

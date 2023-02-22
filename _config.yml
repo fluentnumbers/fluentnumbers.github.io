@@ -1,6 +1,6 @@
 # main text of home
 title: Andrejs Fedjajevs
-bio: Data Science & Health Research
+bio: Data Science & Engineering
 
 # twitter summary info
 description: do you also like when numbers have value?
@@ -45,7 +45,7 @@ email: andrejs.fedjajevs@outlook.com
 authors:
   andrejs:
     name: Andrejs Fedjajevs
-    bio: Data Science & Health Research
+    bio: Data Science & Engineering
     external-image: false
     picture: assets/images/profile.png
   johndoe:
@@ -65,7 +65,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
