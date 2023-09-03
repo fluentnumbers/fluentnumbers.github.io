@@ -16,8 +16,9 @@ layout: page
 
 <p>
 I am a senior data professional and product-minded engineer located in the Netherlands.<br>
-I have experience as a <strong>data scientist</strong>, <strong>ML engineer</strong> and algorithms <strong>team lead</strong> in tech consultancy and R&D settings.<br>
-Skilled in Deep Learning, MLOps, cloud computing for health-tech, IoT, computer vision applications. <br>
+I have experience as a <strong>data scientist</strong>, <strong>ML engineer</strong> and algorithms <strong>team lead</strong> in high-tech consultancy and R&D settings.<br>
+Skilled in full-stack Machine Learning and cloud computing as well as human-to-human communication :) 
+Ready for professional challenges in data-centric teams where I can help numbers speak fluent business language.<br>
 </p>
 
 <!---
@@ -43,22 +44,6 @@ Data Scientist at <strong><a href="https://www.philips.com/a-w/about.html">Phili
 <strong>2016 &mdash; 2022</strong><br>
 Senior R&D Engineer at <strong><a href="https://www.imec-int.com/en">Imec</a></strong>, Eindhoven, the Netherlands
 
-<h4>SKILLS</h4>
-<p>
-I stay flexible in the choice of exact tools&methods, as it is always subject to <strong>project goals and stakeholders' interests</strong>. Always keen to learn new technologies necessary to stay up-to-date and answer business questions or facilitate data-driven decisions.
-
-    <ul class="skill-list">
-        <li><u>Programming languages</u>: Python, MATLAB, SQL, C++</li>
-        <li><u>Deep Learning frameworks</u>: PyTorch, Keras</li>
-        <li><u>MLOps</u>: MLflow, dvc, Tensorboard, Git Actions, Docker</li>
-		<li><u>Big Data tools</u>: PySpark\Azure Databricks</li>
-		<li><u>Data engineering</u>: Terraform, Prefect  </li>
-        <li><u>Cloud</u>: various services from MS Azure and GCP</li>
-		<li><u>Databases and analytics</u>: Postgres, Apache Cassandra, BigQuery, dbt </li>
-        <li><u>Visualization</u>: Plotly, PyQt, PowerBI</li>
-    </ul>
-
-</p>
 
 <!---
 <h3>PROFESSIONAL INTERESTS</h3>
