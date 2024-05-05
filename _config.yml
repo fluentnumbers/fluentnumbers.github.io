@@ -5,13 +5,12 @@ bio: Data Science & Engineering
 # twitter summary info
 description: do you also like when numbers have value?
 
-
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.png
 
-# your site color theme, true for dark theme, 
+# your site color theme, true for dark theme,
 # false to light theme, auto to switch with system.
 dark-theme: false
 
@@ -41,6 +40,7 @@ disqus:
 linkedin: fedjajevs
 orcid: 0000-0002-3047-9329
 github: fluentnumbers
+telegram: fluentnumbers
 email: andrejs.fedjajevs@outlook.com
 
 authors:
@@ -114,11 +114,4 @@ compress_html:
       - development
       - stage
 
-exclude:
-  [
-    "README.md",
-    "Gemfile",
-    "Gemfile.lock",
-    "FAQ.md",
-    "vendor",
-  ]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "FAQ.md", "vendor"]
